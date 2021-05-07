@@ -8,4 +8,4 @@ Css:media queries and animations, and javascript: dom manipulation.
 I personally find the visual appeal to be great and the implemention of javascript to be elegant.
 For future projects, I will use this project to think about html structure, and css features.
 
-Hope you enjoy! You can view it at:
+Hope you enjoy! You can view it at: https://erikbahena.github.io/Practice-Site-1-navbar-hovers-and-media-query/
